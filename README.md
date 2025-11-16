@@ -1,6 +1,6 @@
-# [Clock](https://youtu.be/LD9UEC7AI7g)
-- Coding Tutorial: [https://youtu.be/AzvpHNkjqsg](https://youtu.be/LD9UEC7AI7g)
-- Demo: https://imkennyyip.github.io/tictactoe/
+# [Clock](https://youtu.be/PdiHCx-3DC0)
+- Coding Tutorial: [https://youtu.be/PdiHCx-3DC0](https://youtu.be/PdiHCx-3DC0)
+- Demo: https://imkennyyip.github.io/clock/
 
 In this tutorial, you will learn how to create a clock in javascript. This project focuses solely on javscript using canvas. You will learn how to draw on the canvas, rotate and translate the canvas, use the date object to get the current time, and create a timer function to update the clock every second.
 
